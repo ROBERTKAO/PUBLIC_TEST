@@ -18,4 +18,4 @@ ENDDO.
 
 WRITE :/ 'ERROR'.
 
-WRITE :/ 'MASTER'.
+WRITE :/ 'MASTER 2'.
